@@ -36,3 +36,6 @@ Short introduction/summary about your repository.
 > Note:
 >  :white_check_mark: = finish, 
 >  :exclamation: = on-going
+
+## Coding Environment
+Please see the [setup](setup.md) file for setup recommendations.
