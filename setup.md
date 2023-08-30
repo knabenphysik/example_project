@@ -23,7 +23,7 @@ myMLENV\Scripts\activate.bat
 Once your virtual environment `activated`, you can start install relevant python libraries.
 
 
-## Windows: CUDA & cuDNN setup
+## Windows: CUDA & cuDNN setup (for Tensorflow or PyTorch)
 
 Assuming you are using latest Windows 11 build and using Nvidia enable PC/laptop, 
 
