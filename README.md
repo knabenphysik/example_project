@@ -6,17 +6,27 @@ Problem statement was prepared by HT Consulting (Asia) Sdn. Bhd. but the python 
 
 **Please note that the code in written in [jupyter](https://jupyter.org/) notebook.**
 
-# [Week 1](week01): Image manipulation with Python
+## Table of Contents
+- [Overview](#overview)
+- [Task Progress](#Task Progress)
+
+## Overview
+
+Put some introduction about AI, ML and Deep Learning (DL) in general.
+
+## Task Progress
+
+# [Week 1](week_01): Image manipulation with Python
 
 - :white_check_mark: seggregate images file according to file type & image type
 - :exclamation: investigate image properties using opencv, scikit-image package
 
-# [Week 2](week02): Sound/Text manipulation with Python
+# [Week 2](week_02): Sound/Text manipulation with Python
 
 - :white_check_mark: investigate audio properties using scipy, librosa,tensorflow, pytorch
 - :exclamation: exploring NLTK, SpaCy, Gensim, Scikit-learn libraries for text cleaning
 
-# [Week 3](week03): Exploratory Data Analysis
+# [Week 3](week_03): Exploratory Data Analysis
 
 # Week 4
 
