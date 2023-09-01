@@ -8,7 +8,7 @@ Problem statement was prepared by HT Consulting (Asia) Sdn. Bhd. but the python 
 
 ## Table of Contents
 - [Overview](#overview)
-- [Task Progress](#Task Progress)
+- [Task Progress](#task-progress)
 
 ## Overview
 
